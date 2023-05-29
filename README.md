@@ -13,11 +13,8 @@ Connect Four (also known as Four Up, Plot Four, Find Four, Four in a Row, Four i
 2 addEventListener
 3 document.querySelector
 4 arrow functions
-## Rules of Connect Four
-
 
 ## Rules of Connect Four
-
 
 1. You will start as player One
  You will take your go as player One
