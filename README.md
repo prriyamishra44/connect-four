@@ -9,10 +9,10 @@ Connect Four (also known as Four Up, Plot Four, Find Four, Four in a Row, Four i
 
 ## What are we going to focus on?
 
-1 for loops
-2 addEventListener
-3 document.querySelector
-4 arrow functions
+1. for loops
+2. addEventListener
+3. document.querySelector
+4. arrow functions
 
 ## Rules of Connect Four
 
